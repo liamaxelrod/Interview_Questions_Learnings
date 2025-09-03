@@ -39,6 +39,7 @@ Future plan: connect this repo to a simple static website (via GitHub Pages) to 
 
 ## 4. Project Structure
 
+```
 interview-questions-learnings/     
   problems/     
   arrays/     
@@ -59,6 +60,7 @@ interview-questions-learnings/
     LANGUAGE_SETUP.md # Environment setup notes (Java, Node, etc.)     
 LICENSE     
 README.md     
+```
 
 ---
 
@@ -108,3 +110,5 @@ For each problem, I’ll reflect on:
 ## 9. License
 
 This project is licensed under the [MIT License](LICENSE).  
+The code structure is not working correctly. 
+

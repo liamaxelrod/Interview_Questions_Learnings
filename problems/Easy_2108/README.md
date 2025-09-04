@@ -1,34 +1,36 @@
 # Find First Palindromic String in the Array
 
-LeetCode: Completed Problem: 2108. Find First Palindromic String in the Array.
+LeetCode Easy Problem: 2108: Find First Palindromic String in the Array.
 
 ## 1. Problem Description
 
-Given an array of strings `words`, return the **first string in the array that is a palindrome**.
-A **palindrome** reads the same forwards and backwards (e.g., "ada" or "racecar").
+You are given an array of strings `words`. Your task is to return the **first palindromic string** in the array. If no palindromic string exists, return an empty string `""`.
 
-**Input:**
+A **palindromic string** is a string that reads the same forward and backward.
 
-- `words`: array of strings
-- Constraints:
-  - 1 <= words.length <= 100
-  - 1 <= words[i].length <= 100
-  - words[i] consists only of lowercase English letters
+**Examples:**
 
-**Output:**
+1. **Input:** `words = ["abc","car","ada","racecar","cool"]`
 
-- The first palindrome string found in `words`
-- If no palindrome exists, return an empty string `""`
+   **Output:** `"ada"`
 
-**Example:**
+   **Explanation:** `"ada"` is the first string that is palindromic. `"racecar"` is also palindromic, but it comes later.
+2. **Input:** `words = ["notapalindrome","racecar"]`
 
-Input: ["abc","car","ada","racecar","cool"]
-Output: "ada"
+   **Output:** `"racecar"`
 
-Input: ["abc","car","cool"]
-Output: ""
+   **Explanation:** `"racecar"` is the first and only palindromic string in the array.
+3. **Input:** `words = ["def","ghi"]`
 
----
+   **Output:** `""`
+
+   **Explanation:** There are no palindromic strings in the array.
+
+**Constraints:**
+
+* `1 <= words.length <= 100`
+* `1 <= words[i].length <= 100`
+* Each `words[i]` consists of lowercase English letters only.
 
 ## 2. Why This Problem Matters
 
@@ -73,17 +75,15 @@ For employers, it demonstrates you can work efficiently with arrays and strings 
 
 ## 5. Lessons Learned
 
-- Learning the same lesson again: if you don’t practice coding for a long time, you start to forget it, but the moment you get back into it, it comes back quickly.  
-- I purposely decided to do it the hard way with 2 loops to refresh my memory on JavaScript and its syntax.  
+- Learning the same lesson again: if you don’t practice coding for a long time, you start to forget it, but the moment you get back into it, it comes back quickly.
+- I purposely decided to do it the hard way with 2 loops to refresh my memory on JavaScript and its syntax.
 - I also used ChatGPT to generate a shorter, built-in method solution using `split()`, `reverse()`, and `join()`. I mainly wanted to compare my manual approach with a concise alternative that uses built-in methods. This helped me quickly understand both the “hard way” and the “simple way” of solving the problem. I could have just looked up the simple methods to solve the problem, but I purposely wanted to do it the hard way, as stated in the first lesson.
 
 ## 5. References / Resources
 
 - MDN Docs: [String reversal using split/reverse/join](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
-
 - LeetCode: [LeetCode: Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)
-Completed Problem: 2108. Find First Palindromic String in the Array
-&nbsp;
-&nbsp;
-&nbsp;
-
+  Completed Problem: 2108. Find First Palindromic String in the Array
+  &nbsp;
+  &nbsp;
+  &nbsp;

@@ -1,0 +1,39 @@
+Questions or conversations for ChatGPT Disregard Anything below. 
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------
+Completed Problem: 2108. Find First Palindromic String in the Array
+Removed List Item: 5. Palindrome check (string and number)
+Reason: 2108 fully covers palindrome checking in strings; same concept.
+
+Completed Problem: 1807. Evaluate the Bracket Pairs of a String
+Removed List Item: 15. Check balanced parentheses
+Reason: 1807 involves parsing and validating brackets; covers balanced parentheses.
+
+Completed Problem: 1330. Reverse Subarray To Maximize Array Value
+Removed List Item: 10. Maximum subarray sum (Kadane’s algorithm)
+Reason: 1330 is a variation on maximizing array value; conceptually overlaps with Kadane’s algorithm.
+---------------------------------------------------------
+1. LeetCode — “Easy” + “Top Interview Questions” 
+2. GeeksforGeeks — Classic Explanations
+3. Cracking the Coding Interview Book (Optional but Powerful)
+
+Why: It’s curated for interviews and explains the reasoning behind each solution.
+
+How to use:
+
+Pick 1 problem per chapter, attempt it on your own first, then compare with the book’s approach.
+
+Document your learning and reflections in your repo.

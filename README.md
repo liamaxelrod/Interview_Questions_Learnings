@@ -52,7 +52,7 @@ interview-questions-learnings/
       solution.css # CSS demo (if applicable)   
       ...   
   dynamic_programming/   
-    ...    
+    ...  
   graphs/   
     ...   
   ...   
@@ -110,13 +110,13 @@ For each problem, I’ll reflect on:
 
 ### AI Tools
 
-- **ChatGPT** and **Copilot** were used in this project:
+- **ChatGPT** were used in this project:
   - Creating the overall project structure.
   - Exploring the Solution when required.
   - Understanding coding techniques.
   - Assisting with language-specific syntax and best practices.
 
-When approaching real interviews, I understand that I will **not** be able to use AI tools. My use of AI is for learning and reflection — to understand the problem, explore solution strategies, and practice coding interview problems more effectively when I am stuck. The goal is to ensure that when faced with a real interview, I can solve these problems independently.
+When approaching real interviews, I understand that I will **not** be able to use AI tools. My intention in use of AI like **ChatGPT** and **Copilot** is for learning and reflection — to understand the problem, explore solution strategies, and practice coding interview problems more effectively when I am stuck. The goal is to ensure that when faced with a real interview, I can solve these problems independently.
 
 ---
 

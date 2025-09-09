@@ -2,7 +2,11 @@ Questions or conversations for ChatGPT Disregard Anything below.
 
 
 
-    
+
+
+
+
+
 
 
 
@@ -14,13 +18,6 @@ Questions or conversations for ChatGPT Disregard Anything below.
 
 
 ---------------------------------------------------------
-Completed Problem: 2108. Find First Palindromic String in the Array
-Removed List Item: 5. Palindrome check (string and number)
-Reason: 2108 fully covers palindrome checking in strings; same concept.
-
-Completed Problem: 1807. Evaluate the Bracket Pairs of a String
-Removed List Item: 15. Check balanced parentheses
-Reason: 1807 involves parsing and validating brackets; covers balanced parentheses.
 
 Completed Problem: 1330. Reverse Subarray To Maximize Array Value
 Removed List Item: 10. Maximum subarray sum (Kadane’s algorithm)

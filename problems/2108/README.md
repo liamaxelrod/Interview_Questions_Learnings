@@ -1,6 +1,6 @@
 # Find First Palindromic String in the Array
 
-LeetCode Easy Problem: 2108: Find First Palindromic String in the Array.
+LeetCode: 2108: Find First Palindromic String in the Array. (Easy)
 
 ## 1. Problem Description
 

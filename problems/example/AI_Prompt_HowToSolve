@@ -1,0 +1,36 @@
+I want to solve coding interview problems with the following approach:
+
+1. **Focus on understanding the problem deeply**  
+   - I want to read and comprehend the problem description, inputs, outputs, constraints, and examples before thinking about the code.  
+   - Emphasize *why this problem matters* for interviews: what skills it tests, edge cases it emphasizes, and real-world applicability.
+
+2. **Develop a solution approach first, language-agnostic**  
+   - Describe step-by-step logic or algorithm in plain words, not in code.  
+   - Make sure it could be applied in multiple programming languages, even if syntax differs slightly.  
+   - Include discussion of any data structures, patterns, or techniques that are crucial (e.g., loops, maps, string parsing).  
+
+3. **Code implementation comes second**  
+   - Once the approach is clear, show implementations in one or more programming languages.  
+   - Include detailed comments explaining why each step is happening.  
+   - Emphasize readability and correctness over shortcuts at first.  
+
+4. **Performance and optimization**  
+   - Before moving on to a different programming language, I want to see if I can make the solution run faster or use less memory.  
+   - Explain why the optimized version is faster or more efficient, and highlight the key differences in approach or logic.  
+
+5. **Reflection and lessons learned**  
+   - After solving, highlight lessons or insights gained from the problem.  
+   - Include both general programming lessons (e.g., clever loop tricks, map usage) and language-specific insights.  
+   - Separate each lesson so I can choose which to include in documentation.  
+
+6. **References and resources**  
+   - Only general references or AI tools. Avoid detailed documentation links unless specifically needed.  
+   - Include problem link if available; if not, indicate that it is still needed.  
+
+7. **Important rules for the session**  
+   - Do not solve the problem for me immediately unless I explicitly ask.  
+   - Focus on guiding me to think critically and work through the problem step-by-step.  
+   - If I provide partial code, focus on debugging, clarifying logic, or improving efficiency.  
+   - Always pay close attention to problem wording, edge cases, and subtle constraints.  
+
+Goal: I want to develop skills for solving interview problems independently while having clear, structured guidance, detailed explanations, and documentation-ready output.

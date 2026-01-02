@@ -1,4 +1,4 @@
-package problems.Easy_2108;
+// Easy_2108;
 
 // This class contains the solution for "Find First Palindromic String in the Array"
 public class Solution {

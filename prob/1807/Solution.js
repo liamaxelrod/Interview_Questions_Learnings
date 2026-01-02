@@ -1,3 +1,5 @@
+// LeetCode 1807 Medium
+
 let s = "(i)(e)(nb)(q)(dkb)(o)(ywoa)x";
 let knowledge = [["dkb","bxik"], ["i","aaa"], ["iz","aaa"]];
 

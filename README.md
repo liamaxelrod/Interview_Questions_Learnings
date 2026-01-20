@@ -38,23 +38,38 @@ This project is my **personal archive of coding interview questions and solution
 This table serves as a **master index** for all solved and in-progress problems.
 
 - **Section** refers to the numbered curriculum below (e.g. 1.1, 5.17).
-- Problems are grouped by **core technique**, not just difficulty.
-- 
+- Problems are grouped by Hard Problems.
 
-| #  | Problem Name          | Source / Link                                                                                                                                                                                                                       | Difficulty | Section | Languages | Notes (Core Concept)                                                      |
-| -- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------- | --------- | ------------------------------------------------------------------------- |
-| 1  | ReverseString         | [LeetCode 344](https://leetcode.com/problems/reverse-string/description/?envType=problem-list-v2&envId=v9ut1ir1 "https://leetcode.com/problems/reverse-string/description/?envType=problem-list-v2&amp;envId=v9ut1ir1")                       | Easy       | 1.1     | Java      | Two-pointer traversal on a character array; basic string manipulation     |
-| 2  | ReverseWordsInAString | [LeetCode 151](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=problem-list-v2&envId=v9ut1ir1 "https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=problem-list-v2&amp;envId=v9ut1ir1") | Medium     | 1.1     | Java      | Word-level parsing and reversal; string tokenization; whitespace handling |
-| 3  |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
-| 4  |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
-| 5  |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
-| 6  |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
-| 7  |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
-| 8  |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
-| 9  |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
-| 10 |                       | [LeetCode]()                                                                                                                                                                                                                           |            |         |           |                                                                           |
+| Problem Name                        | Difficulty | Concept(s)                                                                              | Link                                                               |
+| ----------------------------------- | ---------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Reverse String (LC 344)             | Easy       | 1.1 Two-pointer traversal, string symmetry                                              | [LeetCode](https://leetcode.com/problems/reverse-string/)             |
+| Palindrome Number (LC 9)            | Easy       | 1.5 Symmetry, two-pointer logic                                                         | [LeetCode](https://leetcode.com/problems/palindrome-number/)          |
+| FizzBuzz (LC 412)                   | Easy       | 1.4 Control flow, branching                                                             | [LeetCode](https://leetcode.com/problems/fizz-buzz/)                  |
+| Valid Parentheses (LC 20)           | Medium     | 1.15 Stack, balanced parentheses                                                        | [LeetCode](https://leetcode.com/problems/valid-parentheses/)          |
+| Remove Invalid Parentheses (LC 301) | Hard       | 1.15, 1.5, 1.11, 1.4, 1.8 Stack, DFS/recursion, control flow, symmetry, order/frequency | [LeetCode](https://leetcode.com/problems/remove-invalid-parentheses/) |
 
-> **Note:** Difficulty does not determine placement — **core concept does**.
+| Problem Name                                 | Difficulty | Concept(s)                                                         | Link                                                                        |
+| -------------------------------------------- | ---------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Two Sum (LC 1)                               | Easy       | 1.3 Hash lookup, aggregation                                       | [LeetCode](https://leetcode.com/problems/two-sum/)                             |
+| Remove Duplicates from Sorted Array (LC 26)  | Easy       | 1.14 Traversal, deduplication                                      | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| Two Sum II – Input Array Is Sorted (LC 167) | Medium     | 1.3, 1.7 Two-pointer traversal                                     | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)    |
+| Maximum Subarray (LC 53)                     | Medium     | 1.10 Aggregation, subarray sum                                     | [LeetCode](https://leetcode.com/problems/maximum-subarray/)                    |
+| Sliding Window Maximum (LC 239)              | Hard       | 1.3, 1.7, 1.9, 1.10 Arrays, deque/queue, two-pointers, aggregation | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/)              |
+
+| Problem Name                              | Difficulty | Concept(s)                                                                 | Link                                                                     |
+| ----------------------------------------- | ---------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| FizzBuzz (LC 412)                         | Easy       | 1.4 Control flow, branching (Python repeat)                                | [LeetCode](https://leetcode.com/problems/fizz-buzz/)                        |
+| Reverse Words in a String III (LC 557)    | Easy       | 1.12 String parsing, order logic                                           | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string-iii/)    |
+| Evaluate Reverse Polish Notation (LC 150) | Medium     | 1.15, 1.13 Stack, expression evaluation                                    | [LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| Flatten Nested List Iterator (LC 341)     | Medium     | 1.8, 1.15 DFS, recursion                                                   | [LeetCode](https://leetcode.com/problems/flatten-nested-list-iterator/)     |
+| Expression Add Operators (LC 282)         | Hard       | 1.8, 1.15, 1.4, 1.13 DFS/backtracking, recursion, operator ordering, stack | [LeetCode](https://leetcode.com/problems/expression-add-operators/)         |
+
+| Problem Name                                 | Difficulty | Concept(s)                                                   | Link                                                                          |
+| -------------------------------------------- | ---------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| Maximum Depth of Binary Tree (LC 104)        | Easy       | 1.8 DFS recursion, tree traversal                            | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)          |
+| Symmetric Tree (LC 101)                      | Easy       | 1.5, 1.8 DFS recursion, tree symmetry                        | [LeetCode](https://leetcode.com/problems/symmetric-tree/)                        |
+| Invert Binary Tree (LC 226)                  | Medium     | 1.8, 1.16 DFS recursion, tree manipulation                   | [LeetCode](https://leetcode.com/problems/invert-binary-tree/)                    |
+| Serialize & Deserialize Binary Tree (LC 297) | Hard       | 1.8, 1.20, 1.16 DFS, deep cloning, order tracking, recursion | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
 
 ---
 

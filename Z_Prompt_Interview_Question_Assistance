@@ -43,3 +43,33 @@ I want to solve coding interview problems with the following approach:
    - Always pay close attention to problem wording, edge cases, and subtle constraints.  
 
 Goal: I want to develop skills for solving interview problems independently while having clear, structured guidance, detailed explanations, and documentation-ready output.
+
+
+Mini-Ladder 1: Remove Invalid Parentheses (Hard)
+Easy: Reverse String (LC 344) — (1.1) Two-pointer traversal, string symmetry — Java
+Easy: Palindrome Number (LC 9) — (1.5) Symmetry, two-pointer logic — Java
+Easy: FizzBuzz (LC 412) — (1.4) Control flow, branching — Java
+Medium: Valid Parentheses (LC 20) — (1.15) Stack, balanced parentheses — Java
+Hard: Remove Invalid Parentheses (LC 301) — (1.15, 1.5, 1.11, 1.4, 1.8) Stack, DFS/recursion, control flow, symmetry, order/frequency — Java
+
+Mini-Ladder 2: Sliding Window Maximum (Hard)
+Easy: Two Sum (LC 1) — (1.3) Hash lookup, aggregation — Java
+Easy: Remove Duplicates from Sorted Array (LC 26) — (1.14) Traversal, deduplication — Java
+Medium: Two Sum II – Input Array Is Sorted (LC 167) — (1.3, 1.7) Two-pointer traversal — Java
+Medium: Maximum Subarray (LC 53) — (1.10) Aggregation, subarray sum — Java
+Hard: Sliding Window Maximum (LC 239) — (1.3, 1.7, 1.9, 1.10) Arrays, deque/queue, two-pointers, aggregation — Java
+
+Mini-Ladder 3: Expression Add Operators (Hard)
+Easy: FizzBuzz (LC 412) — (1.4) Control flow, branching — Python (repeat, different language)
+Easy: Reverse Words in a String III (LC 557) — (1.12) String parsing, order logic — Java
+Medium: Evaluate Reverse Polish Notation (LC 150) — (1.15, 1.13) Stack, expression evaluation — Java
+Medium: Flatten Nested List Iterator (LC 341) — (1.8, 1.15) DFS, recursion — Java
+Hard: Expression Add Operators (LC 282) — (1.8, 1.15, 1.4, 1.13) DFS/backtracking, recursion, operator ordering, stack — Java
+
+Mini-Ladder 4: Serialize & Deserialize Binary Tree (Hard)
+Easy: Maximum Depth of Binary Tree (LC 104) — (1.8) DFS recursion, tree traversal — Java
+Easy: Symmetric Tree (LC 101) — (1.5, 1.8) DFS recursion, tree symmetry — Java
+Medium: Invert Binary Tree (LC 226) — (1.8, 1.16) DFS recursion, tree manipulation — Java
+Hard: Serialize & Deserialize Binary Tree (LC 297) — (1.8, 1.20, 1.16) DFS, deep cloning, order tracking, recursion — Java
+
+
